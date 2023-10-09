@@ -9,8 +9,11 @@ html {
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
+h4 {
+  padding-top : 7px;
+}
 .container {
   width: auto;
-  max-width: 680px;
+  max-width: 1000px;
   padding: 0 15px;
 }
