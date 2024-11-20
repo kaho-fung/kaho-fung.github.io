@@ -1,0 +1,4 @@
+baseURL = 'https://refactored-waffle-v6v4qvrjpvvw3ppx6-1313.app.github.dev'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "digitalgarden"
